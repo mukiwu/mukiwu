@@ -43,18 +43,32 @@
 <a target="_blank" href="https://stackoverflow.com/users/2126434" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-fbfbfb?logo=stackoverflow" alt="stackoverflow" /></a>
 </p>
 
-### MUKI's Github Stats
-    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukiwu&show_icons=true&locale=en" alt="mukiwu" /></p>
+<table border="0">
+  <tr>
+    <td valign="top">
+      <h3>MUKI's Github Stats</h3>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukiwu&show_icons=true&locale=en" alt="mukiwu" /></p>
+    </td>
+    <td valign="top">
+      <h3>Total Contrubitions</h3>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukiwu&" alt="mukiwu" /></p>
+    </td>
+ </tr>
+  <tr>
+    <td valign="top">
+      <h3>Most Used Languages</h3>
+      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukiwu&show_icons=true&locale=en&layout=compact" alt="mukiwu" /></p>
+    </td>
+    <td valign="top">
+      <h3>Github Ranks</h3>
+      <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukiwu&theme=nord&row=2&column=5" alt="mukiwu" /></a></p>
+    </td>
+  </tr>
+</table>
 
-### Total Contrubitions
-        
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukiwu&" alt="mukiwu" /></p>
 
-### Most Used Languages
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukiwu&show_icons=true&locale=en&layout=compact" alt="mukiwu" /></p>
 
-### Github Ranks
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukiwu&theme=nord&row=2&column=5" alt="mukiwu" /></a></p>
+
+

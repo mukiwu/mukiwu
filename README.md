@@ -28,12 +28,11 @@
         
 ## ✒️ My Blog
 
-<a target="_blank" href="https://muki.tw" style="display: inline-block;"><img src="https://img.shields.io/badge/Blog-MUKIspace*-d9444a" alt="blog" /></a>
-
 <img src="https://muki.tw/wordpress/wp-content/uploads/2023/12/omegabook1.jpg" alt="MUKI space*" width="600" />
 
 ## ⚡️ Where to find me
 <p>
+<a target="_blank" href="https://muki.tw" style="display: inline-block;"><img src="https://img.shields.io/badge/Blog-MUKIspace*-d9444a" alt="blog" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/mukiwu" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-0a77b6?logo=linkedin" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/mukispace" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-0866ff?logo=facebook" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/mukiwu" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-ffffff?logo=instagram" alt="instagram" /></a>

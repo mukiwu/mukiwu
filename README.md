@@ -46,7 +46,7 @@
   <tr>
     <td valign="top">
       <h3>MUKI's Github Stats</h3>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukiwu&show_icons=true&locale=en" alt="mukiwu" /></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukiwu&show_icons=true&locale=zh-TW" alt="mukiwu" /></p>
     </td>
     <td valign="top">
       <h3>Total Contrubitions</h3>
@@ -63,11 +63,7 @@
       <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukiwu&theme=nord&row=2&column=5" alt="mukiwu" /></a></p>
     </td>
   </tr>
+       
 </table>
 
-
-
-
-
-
-
+<img src="https://komarev.com/ghpvc/?username=mukiwu&label=Profile%20views&color=d9444a&style=flat" alt="mukiwu" />

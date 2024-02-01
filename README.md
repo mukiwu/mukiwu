@@ -28,7 +28,17 @@
         
 ## ✒️ My Blog
 
-<img src="https://muki.tw/wordpress/wp-content/uploads/2023/12/omegabook1.jpg" alt="MUKI space*" width="600" />
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://muki.tw/wordpress/wp-content/uploads/2023/12/omegabook1.jpg" alt="MUKI space*" width="600" />
+    </td>
+    <td valign="top">
+      <!-- BLOG-POST-LIST:START -->
+      <!-- BLOG-POST-LIST:END -->
+    </td>
+  </tr>
+</table>
 
 ## ⚡️ Where to find me
 <p>
@@ -42,7 +52,7 @@
 <a target="_blank" href="https://stackoverflow.com/users/2126434" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-fbfbfb?logo=stackoverflow" alt="stackoverflow" /></a>
 </p>
 
-<table border="0">
+<table>
   <tr>
     <td valign="top">
       <h3>MUKI's Github Stats</h3>

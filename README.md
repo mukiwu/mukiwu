@@ -35,8 +35,7 @@
     </td>
     <td valign="top">
       <ul>
-      <!-- BLOG-POST-LIST:START -->
-      <!-- BLOG-POST-LIST:END -->
+      <!-- BLOG-POST-LIST:START --><li>$randomEmoji 初探 Singleton Pattern 設計模式</li><li>https://muki.tw/introduction-singleton-design-pattern/</li><li>$randomEmoji 在 Vue.js 設定多個入口網址，並顯示對應的網站標題</li><li>https://muki.tw/setting-multiple-html-files-vuejs/</li><li>$randomEmoji Notion 小工具 四款各具特色的番茄鐘</li><li>https://muki.tw/notion-pomodoro-widgets/</li><li>$randomEmoji 如何在 Vue.js 中不使用 CSS 框架&lpar;ex.Element Plus &rpar;，自行寫出表格和分頁功能</li><li>https://muki.tw/create-tables-pagination-in-vue-js-without-using-css-framework/</li><li>$randomEmoji 7. 使用 MUI X 的 Data Grid 製作台股報價資料</li><li>https://muki.tw/muix-data-grid/</li><!-- BLOG-POST-LIST:END -->
       </ul>
     </td>
   </tr>

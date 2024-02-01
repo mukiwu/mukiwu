@@ -14,3 +14,4 @@ jobs:
               with:
                   max_post_count: "5"
                   feed_list: "https://muki.tw/feed"
+                  template: "<li>$randomEmoji $title</li><li>$url</li>"

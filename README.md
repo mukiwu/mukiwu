@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/refactor-deployed-fully-feature/'>如何重構一個已上線且完整的功能或程式設計</a><br>🤡 <a href='https://muki.tw/introduction-singleton-design-pattern/'>初探 Singleton Pattern 設計模式</a><br>💯 <a href='https://muki.tw/setting-multiple-html-files-vuejs/'>在 Vue.js 設定多個入口網址，並顯示對應的網站標題</a><br>🔥 <a href='https://muki.tw/notion-pomodoro-widgets/'>Notion 小工具 四款各具特色的番茄鐘</a><br>💯 <a href='https://muki.tw/create-tables-pagination-in-vue-js-without-using-css-framework/'>如何在 Vue.js 中不使用 CSS 框架&lpar;ex.Element Plus &rpar;，自行寫出表格和分頁功能</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/white-cat-legend/'>陸劇 大理寺少卿遊 觀後心得：躲過了高玄，避掉了賀喬宴，卻在邱慶之身上栽了</a><br>🤡 <a href='https://muki.tw/refactor-deployed-fully-feature/'>如何重構一個已上線且完整的功能或程式設計</a><br>💯 <a href='https://muki.tw/introduction-singleton-design-pattern/'>初探 Singleton Pattern 設計模式</a><br>🔥 <a href='https://muki.tw/setting-multiple-html-files-vuejs/'>在 Vue.js 設定多個入口網址，並顯示對應的網站標題</a><br>💯 <a href='https://muki.tw/notion-pomodoro-widgets/'>Notion 小工具 四款各具特色的番茄鐘</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/white-cat-legend/'>陸劇 大理寺少卿遊 觀後心得：躲過了高玄，避掉了賀喬宴，卻在邱慶之身上栽了</a><br>🤡 <a href='https://muki.tw/refactor-deployed-fully-feature/'>如何重構一個已上線且完整的功能或程式設計</a><br>💯 <a href='https://muki.tw/introduction-singleton-design-pattern/'>初探 Singleton Pattern 設計模式</a><br>🔥 <a href='https://muki.tw/setting-multiple-html-files-vuejs/'>在 Vue.js 設定多個入口網址，並顯示對應的網站標題</a><br>💯 <a href='https://muki.tw/notion-pomodoro-widgets/'>Notion 小工具 四款各具特色的番茄鐘</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/vmodel-definemodel-props-emit/'>Vue3 如何用 defineModel 實作 props/ emit 的父子元件傳值，讓傳值變得更方便簡單</a><br>🤡 <a href='https://muki.tw/white-cat-legend/'>陸劇 大理寺少卿遊 觀後心得：躲過了高玄，避掉了賀喬宴，卻在邱慶之身上栽了</a><br>💯 <a href='https://muki.tw/refactor-deployed-fully-feature/'>如何重構一個已上線且完整的功能或程式設計</a><br>🔥 <a href='https://muki.tw/introduction-singleton-design-pattern/'>初探 Singleton Pattern 設計模式</a><br>💯 <a href='https://muki.tw/setting-multiple-html-files-vuejs/'>在 Vue.js 設定多個入口網址，並顯示對應的網站標題</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/warp-app/'>Warp：使用 AI 協作提高生產力的終端機，強大的筆記功能，讓我再也不用記指令啦</a><br>🤡 <a href='https://muki.tw/obsidian-template-daily-weekly-journal-tasks/'>用 Obsidian 設計自己的週計畫與週誌</a><br>💯 <a href='https://muki.tw/github-issue-pull-request-template/'>如何製作 GitHub issue 和 PR 的 template</a><br>🔥 <a href='https://muki.tw/github-actions-workflow-release/'>如何使用 GitHub 的 Actions 自動產生 Release 文件</a><br>💯 <a href='https://muki.tw/zeabur-deploy-service/'>Zeabur：簡單好用的一鍵部署服務，支援前後端與多語言，讓部署變得輕鬆簡單</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/obsidian-plugin-tasks-calendar-wrapper/'>使用 Obsidian plugin: Tasks Calendar Wrapper 讓任務清單顯示在側邊欄，有效管理與排程任務</a><br>🤡 <a href='https://muki.tw/warp-app/'>Warp：使用 AI 協作提高生產力的終端機，強大的筆記功能，讓我再也不用記指令啦</a><br>💯 <a href='https://muki.tw/obsidian-template-daily-weekly-journal-tasks/'>用 Obsidian 設計自己的週計畫與週誌</a><br>🔥 <a href='https://muki.tw/github-issue-pull-request-template/'>如何製作 GitHub issue 和 PR 的 template</a><br>💯 <a href='https://muki.tw/github-actions-workflow-release/'>如何使用 GitHub 的 Actions 自動產生 Release 文件</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

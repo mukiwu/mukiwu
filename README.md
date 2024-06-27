@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/quill-react-ant-design-and-upload-image/'>在 React 使用 Quill 編輯器，並加入上傳圖片至圖床的功能</a><br>🤡 <a href='https://muki.tw/obsidian-plugin-tasks-calendar-wrapper/'>使用 Obsidian plugin: Tasks Calendar Wrapper 讓任務清單顯示在側邊欄，有效管理與排程任務</a><br>💯 <a href='https://muki.tw/warp-app/'>Warp：使用 AI 協作提高生產力的終端機，強大的筆記功能，讓我再也不用記指令啦</a><br>🔥 <a href='https://muki.tw/obsidian-template-daily-weekly-journal-tasks/'>用 Obsidian 設計自己的週計畫與週誌</a><br>💯 <a href='https://muki.tw/github-issue-pull-request-template/'>如何製作 GitHub issue 和 PR 的 template</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/eslint-format-onsave-in-vscode/'>只用 ESLint 處理程式碼格式與規則，並在存檔時自動調整格式</a><br>🤡 <a href='https://muki.tw/quill-react-ant-design-and-upload-image/'>在 React 使用 Quill 編輯器，並加入上傳圖片至圖床的功能</a><br>💯 <a href='https://muki.tw/obsidian-plugin-tasks-calendar-wrapper/'>使用 Obsidian plugin: Tasks Calendar Wrapper 讓任務清單顯示在側邊欄，有效管理與排程任務</a><br>🔥 <a href='https://muki.tw/warp-app/'>Warp：使用 AI 協作提高生產力的終端機，強大的筆記功能，讓我再也不用記指令啦</a><br>💯 <a href='https://muki.tw/obsidian-template-daily-weekly-journal-tasks/'>用 Obsidian 設計自己的週計畫與週誌</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/notion-duplicate-as-template-disappeared/'>新版 Notion 如何讓他人複製自己的模板</a><br>🤡 <a href='https://muki.tw/ngrok-err-ngrok-6024/'>使用 Ngrok 掛 API 代理出現 err_ngrok_6024 的解決方法</a><br>💯 <a href='https://muki.tw/eslint-format-onsave-in-vscode/'>只用 ESLint 處理程式碼格式與規則，並在存檔時自動調整格式</a><br>🔥 <a href='https://muki.tw/quill-react-ant-design-and-upload-image/'>在 React 使用 Quill 編輯器，並加入上傳圖片至圖床的功能</a><br>💯 <a href='https://muki.tw/obsidian-plugin-tasks-calendar-wrapper/'>使用 Obsidian plugin: Tasks Calendar Wrapper 讓任務清單顯示在側邊欄，有效管理與排程任務</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/zapier-rss-feed-chatgpt-to-obsidian/'>用 Zapier 自動將訂閱的文章摘要後，發布到 Obsidian</a><br>🤡 <a href='https://muki.tw/notion-duplicate-as-template-disappeared/'>新版 Notion 如何讓他人複製自己的模板</a><br>💯 <a href='https://muki.tw/ngrok-err-ngrok-6024/'>使用 Ngrok 掛 API 代理出現 err_ngrok_6024 的解決方法</a><br>🔥 <a href='https://muki.tw/eslint-format-onsave-in-vscode/'>只用 ESLint 處理程式碼格式與規則，並在存檔時自動調整格式</a><br>💯 <a href='https://muki.tw/quill-react-ant-design-and-upload-image/'>在 React 使用 Quill 編輯器，並加入上傳圖片至圖床的功能</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

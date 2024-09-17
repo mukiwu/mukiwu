@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/book-brain-know-everything/'>大腦全知道！現代人必修的腦科學通識課 &lt;作者：篠原菊紀&gt;</a><br>🤡 <a href='https://muki.tw/notion-template-child-class/'>用 Notion 記錄小孩子的小學生活模板</a><br>💯 <a href='https://muki.tw/zapier-rss-feed-chatgpt-to-obsidian/'>用 Zapier 自動將訂閱的文章摘要後，發布到 Obsidian</a><br>🔥 <a href='https://muki.tw/notion-duplicate-as-template-disappeared/'>新版 Notion 如何讓他人複製自己的模板</a><br>💯 <a href='https://muki.tw/ngrok-err-ngrok-6024/'>使用 Ngrok 掛 API 代理出現 err_ngrok_6024 的解決方法</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/blah-blah-blah-what-to-do-when-words-dont-work/'>廢話少說，用畫說！&lt;作者：Dan Roam&gt; 圖文整合思考：畫筆與文字的完美結合</a><br>🤡 <a href='https://muki.tw/book-brain-know-everything/'>大腦全知道！現代人必修的腦科學通識課 &lt;作者：篠原菊紀&gt;</a><br>💯 <a href='https://muki.tw/notion-template-child-class/'>用 Notion 記錄小孩子的小學生活模板</a><br>🔥 <a href='https://muki.tw/zapier-rss-feed-chatgpt-to-obsidian/'>用 Zapier 自動將訂閱的文章摘要後，發布到 Obsidian</a><br>💯 <a href='https://muki.tw/notion-duplicate-as-template-disappeared/'>新版 Notion 如何讓他人複製自己的模板</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

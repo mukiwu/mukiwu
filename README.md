@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/blah-blah-blah-what-to-do-when-words-dont-work/'>廢話少說，用畫說！&lt;作者：Dan Roam&gt; 用圖文整合打破溝通的「廢話」陷阱</a><br>🤡 <a href='https://muki.tw/book-brain-know-everything/'>大腦全知道！現代人必修的腦科學通識課 &lt;作者：篠原菊紀&gt;</a><br>💯 <a href='https://muki.tw/notion-template-child-class/'>用 Notion 記錄小孩子的小學生活模板</a><br>🔥 <a href='https://muki.tw/zapier-rss-feed-chatgpt-to-obsidian/'>用 Zapier 自動將訂閱的文章摘要後，發布到 Obsidian</a><br>💯 <a href='https://muki.tw/notion-duplicate-as-template-disappeared/'>新版 Notion 如何讓他人複製自己的模板</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/tana-introduce/'>Tana 是我用過最棒的筆記軟體，這六大特點讓我只試用了四天就付費購買</a><br>🤡 <a href='https://muki.tw/blah-blah-blah-what-to-do-when-words-dont-work/'>廢話少說，用畫說！&lt;作者：Dan Roam&gt; 用圖文整合打破溝通的「廢話」陷阱</a><br>💯 <a href='https://muki.tw/book-brain-know-everything/'>大腦全知道！現代人必修的腦科學通識課 &lt;作者：篠原菊紀&gt;</a><br>🔥 <a href='https://muki.tw/notion-template-child-class/'>用 Notion 記錄小孩子的小學生活模板</a><br>💯 <a href='https://muki.tw/zapier-rss-feed-chatgpt-to-obsidian/'>用 Zapier 自動將訂閱的文章摘要後，發布到 Obsidian</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

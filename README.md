@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/muki-series-table-of-content/'>MUKI Series TOC：幫你產生系列文章目錄的 WordPress 外掛</a><br>🤡 <a href='https://muki.tw/muki-ai-summary/'>MUKI AI Summary：用 AI 幫你生成文章摘要的 WordPress 外掛</a><br>💯 <a href='https://muki.tw/tana-introduce/'>Tana 是我用過最棒的筆記軟體，這六大特點讓我只試用了四天就付費購買</a><br>🔥 <a href='https://muki.tw/blah-blah-blah-what-to-do-when-words-dont-work/'>廢話少說，用畫說！&lt;作者：Dan Roam&gt; 用圖文整合打破溝通的「廢話」陷阱</a><br>💯 <a href='https://muki.tw/book-brain-know-everything/'>大腦全知道！現代人必修的腦科學通識課 &lt;作者：篠原菊紀&gt;</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/notion-template-thanksful-diary/'>活用 Notion AI，幫你寫出值得感謝與覺得失落的哭笑日記手帳</a><br>🤡 <a href='https://muki.tw/tana-life-log/'>使用 Tana 製作自己的 Life Log</a><br>💯 <a href='https://muki.tw/muki-series-table-of-content/'>MUKI Series TOC：幫你產生系列文章目錄的 WordPress 外掛</a><br>🔥 <a href='https://muki.tw/muki-ai-summary/'>MUKI AI Summary：用 AI 幫你生成文章摘要的 WordPress 外掛</a><br>💯 <a href='https://muki.tw/tana-introduce/'>Tana 是我用過最棒的筆記軟體，這六大特點讓我只試用了四天就付費購買</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

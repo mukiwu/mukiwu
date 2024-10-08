@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/tana-voice-memo-processing/'>Tana 的語音備忘錄支援直接轉成文字，並自動變成待辦事項</a><br>🤡 <a href='https://muki.tw/notion-template-thanksful-diary/'>活用 Notion AI，幫你寫出值得感謝與覺得失落的哭笑日記手帳</a><br>💯 <a href='https://muki.tw/tana-life-log/'>使用 Tana 製作自己的 Life Log</a><br>🔥 <a href='https://muki.tw/muki-series-table-of-content/'>MUKI Series TOC：幫你產生系列文章目錄的 WordPress 外掛</a><br>💯 <a href='https://muki.tw/muki-ai-summary/'>MUKI AI Summary：用 AI 幫你生成文章摘要的 WordPress 外掛</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/use-dify-firecrawl-build-own-rag/'>用 Dify 和 Firecrawl 建構自己的知識庫</a><br>🤡 <a href='https://muki.tw/tana-voice-memo-processing/'>Tana 的語音備忘錄支援直接轉成文字，並自動變成待辦事項</a><br>💯 <a href='https://muki.tw/notion-template-thanksful-diary/'>活用 Notion AI，幫你寫出值得感謝與覺得失落的哭笑日記手帳</a><br>🔥 <a href='https://muki.tw/tana-life-log/'>使用 Tana 製作自己的 Life Log</a><br>💯 <a href='https://muki.tw/muki-series-table-of-content/'>MUKI Series TOC：幫你產生系列文章目錄的 WordPress 外掛</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

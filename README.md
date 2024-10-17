@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/barrel-files/'>使用 Barrel Files 的好處與大多數人不推薦的原因</a><br>🤡 <a href='https://muki.tw/use-ts-rest-zod-api-contract/'>使用 ts-rest 與 Zod 定義 API 合約和進行資料驗證</a><br>💯 <a href='https://muki.tw/free-to-use-algolia-search/'>如何免費使用 Algolia Search 服務，免外掛免客製化，美觀又好用</a><br>🔥 <a href='https://muki.tw/ts-rest-introduce/'>什麼是 ts-rest？論 TypeScript Interface 的局限性與前後端導入 ts-rest 的優缺點</a><br>💯 <a href='https://muki.tw/wp-search-with-algolia/'>WP Search with Algolia 外掛使用介紹：在 WordPress 使用 Algolia 的搜尋服務</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/book-the-underlying-logic/'>底層邏輯 &lt;作者：劉潤&gt;</a><br>🤡 <a href='https://muki.tw/notion-brackets/'>在 Notion 製作 16 強淘汰賽的樹狀圖</a><br>💯 <a href='https://muki.tw/css-responsive-input-width/'>在 CSS 建立響應式輸入欄位的方法</a><br>🔥 <a href='https://muki.tw/barrel-files/'>使用 Barrel Files 的好處與大多數人不推薦的原因</a><br>💯 <a href='https://muki.tw/use-ts-rest-zod-api-contract/'>使用 ts-rest 與 Zod 定義 API 合約和進行資料驗證</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/dify-ai-google-seo-blog/'>使用 Dify AI 工作流自動搜尋 Google 熱門關鍵字，打造 SEO 高效文章</a><br>🤡 <a href='https://muki.tw/tana-ai-life-log-review/'>使用筆記軟體 Tana AI 與 Life Log 手帳進行復盤</a><br>💯 <a href='https://muki.tw/pure-css-for-cta-button/'>如何使用純 CSS 製作固定於右下角的 CTA 按鈕</a><br>🔥 <a href='https://muki.tw/2025-sun-star-moomin/'>我的 2025 年手帳：SUN-STAR MOOMIN 姆明家族 週計畫 開箱介紹</a><br>💯 <a href='https://muki.tw/book-the-underlying-logic/'>底層邏輯 &lt;作者：劉潤&gt;</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/stock-3033/'>購入威健 3033 股票一張</a><br>🤡 <a href='https://muki.tw/analysis-advantages-disadvantages-presidential-election-use-ai/'>使用 AI 工具分析 2024 年美國總統大選，對台灣造成的優劣勢</a><br>💯 <a href='https://muki.tw/dify-ai-google-seo-blog/'>使用 Dify AI 工作流自動搜尋 Google 熱門關鍵字，打造 SEO 高效文章</a><br>🔥 <a href='https://muki.tw/tana-ai-life-log-review/'>使用筆記軟體 Tana AI 與 Life Log 手帳進行復盤</a><br>💯 <a href='https://muki.tw/pure-css-for-cta-button/'>如何使用純 CSS 製作固定於右下角的 CTA 按鈕</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

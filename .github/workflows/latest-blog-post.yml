@@ -13,5 +13,5 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
                   max_post_count: "5"
-                  feed_list: "https://muki.tw/feed"
+                  feed_list: "https://muki.tw/feed/"
                   template: "$randomEmoji(💯,🔥,🚀,🤡) <a href='$url'>$title</a><br>"

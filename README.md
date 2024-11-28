@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/notion-learning-review-system/'>結合 Notion 與艾賓浩斯的學習與複習系統，幫助你學習並建立個人複習計畫</a><br>🤡 <a href='https://muki.tw/chrome-extension-unix-timestamp-converter/'>timestamp 轉換工具，我的 Chrome 擴充功能 Unix Timestamp Converter</a><br>💯 <a href='https://muki.tw/productivity-enhancing-widgets-tana-sidebar/'>如何在 Tana 側邊欄增加提高生產力的小工具</a><br>🔥 <a href='https://muki.tw/stock-3033/'>購入威健 3033 股票一張</a><br>💯 <a href='https://muki.tw/analysis-advantages-disadvantages-presidential-election-use-ai/'>使用 AI 工具分析 2024 年美國總統大選，對台灣造成的優劣勢</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/geolocation-api-track-location/'>用 Geolocation API 取得與追蹤使用者地理位置</a><br>🤡 <a href='https://muki.tw/notion-learning-review-system/'>結合 Notion 與艾賓浩斯的學習與複習系統，幫助你學習並建立個人複習計畫</a><br>💯 <a href='https://muki.tw/chrome-extension-unix-timestamp-converter/'>timestamp 轉換工具，我的 Chrome 擴充功能 Unix Timestamp Converter</a><br>🔥 <a href='https://muki.tw/productivity-enhancing-widgets-tana-sidebar/'>如何在 Tana 側邊欄增加提高生產力的小工具</a><br>💯 <a href='https://muki.tw/stock-3033/'>購入威健 3033 股票一張</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

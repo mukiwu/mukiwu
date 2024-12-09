@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/tana-note-app-free-version/'>從 Notion 到 Tana：全新 AI 筆記工具免費開放，你準備好了嗎？</a><br>🤡 <a href='https://muki.tw/use-tana-build-hqa-system-beginner/'>使用 Tana 建構自己的 HQ&amp;A 系統 – 初體驗</a><br>💯 <a href='https://muki.tw/geolocation-api-track-location/'>用 Geolocation API 取得與追蹤使用者地理位置</a><br>🔥 <a href='https://muki.tw/notion-learning-review-system/'>結合 Notion 與艾賓浩斯的學習與複習系統，幫助你學習並建立個人複習計畫</a><br>💯 <a href='https://muki.tw/chrome-extension-unix-timestamp-converter/'>timestamp 轉換工具，我的 Chrome 擴充功能 Unix Timestamp Converter</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/hqa-joy-effort/'>使用 HQ&amp;A 系統體驗閱讀的價值與樂趣</a><br>🤡 <a href='https://muki.tw/books-turning-reading-into-reality/'>讀書變現的創作法則 &lt;作者：弘丹&gt; 從內容消費者到內容生產者的轉變，是品牌獲利的關鍵</a><br>💯 <a href='https://muki.tw/tana-note-app-free-version/'>從 Notion 到 Tana：全新 AI 筆記工具免費開放，你準備好了嗎？</a><br>🔥 <a href='https://muki.tw/use-tana-build-hqa-system-beginner/'>使用 Tana 建構自己的 HQ&amp;A 系統 – 初體驗</a><br>💯 <a href='https://muki.tw/geolocation-api-track-location/'>用 Geolocation API 取得與追蹤使用者地理位置</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

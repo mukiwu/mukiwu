@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/hqa-joy-effort/'>使用 HQ&amp;A 系統體驗閱讀的價值與樂趣</a><br>🤡 <a href='https://muki.tw/books-turning-reading-into-reality/'>讀書變現的創作法則 &lt;作者：弘丹&gt; 從內容消費者到內容生產者的轉變，是品牌獲利的關鍵</a><br>💯 <a href='https://muki.tw/tana-note-app-free-version/'>從 Notion 到 Tana：全新 AI 筆記工具免費開放，你準備好了嗎？</a><br>🔥 <a href='https://muki.tw/use-tana-build-hqa-system-beginner/'>使用 Tana 建構自己的 HQ&amp;A 系統 – 初體驗</a><br>💯 <a href='https://muki.tw/geolocation-api-track-location/'>用 Geolocation API 取得與追蹤使用者地理位置</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/geolocation-api-leaflet-routing-machine/'>用 Geolocation API 和 Leaflet Routing Machine 實作叫車導航功能</a><br>🤡 <a href='https://muki.tw/free-tana-habit-tracker-template/'>免費下載 2 款超實用的 Tana Habit Tracker 習慣追蹤模板，助你養成好習慣</a><br>💯 <a href='https://muki.tw/hqa-joy-effort/'>使用 HQ&amp;A 系統體驗閱讀的價值與樂趣</a><br>🔥 <a href='https://muki.tw/books-turning-reading-into-reality/'>讀書變現的創作法則 &lt;作者：弘丹&gt; 從內容消費者到內容生產者的轉變，是品牌獲利的關鍵</a><br>💯 <a href='https://muki.tw/tana-note-app-free-version/'>從 Notion 到 Tana：全新 AI 筆記工具免費開放，你準備好了嗎？</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

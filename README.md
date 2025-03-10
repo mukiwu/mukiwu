@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/sentry-monitoring-capture-errors-mcp-fix-bug/'>前端監控與捕捉使用者瀏覽網站的錯誤，並透過 AI MCP 自動修復 Bug Issue</a><br>🤡 <a href='https://muki.tw/foreach-map-for-of/'>如何正確處理非同步的 API 請求？淺談 forEach, map, for…of 的差異</a><br>💯 <a href='https://muki.tw/tana-transcript-meeting-audio/'>Tana 的一條龍服務：從錄製逐字稿到轉成會議記錄</a><br>🔥 <a href='https://muki.tw/tana-raycast-confetti/'>Tana 串接 Raycast 幫你的待辦事項加上撒花效果</a><br>💯 <a href='https://muki.tw/customize-tana-node-icon/'>如何修改 Tana 節點&lpar;Node&rpar; 前的圖示</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/typescript-as-const/'>TypeScript 小技巧：使用 as const 打造更嚴謹的型別推斷</a><br>🤡 <a href='https://muki.tw/sentry-monitoring-capture-errors-mcp-fix-bug/'>前端監控與捕捉使用者瀏覽網站的錯誤，並透過 AI MCP 自動修復 Bug Issue</a><br>💯 <a href='https://muki.tw/foreach-map-for-of/'>如何正確處理非同步的 API 請求？淺談 forEach, map, for…of 的差異</a><br>🔥 <a href='https://muki.tw/tana-transcript-meeting-audio/'>Tana 的一條龍服務：從錄製逐字稿到轉成會議記錄</a><br>💯 <a href='https://muki.tw/tana-raycast-confetti/'>Tana 串接 Raycast 幫你的待辦事項加上撒花效果</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

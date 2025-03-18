@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/typescript-as-const/'>TypeScript 小技巧：使用 as const 打造更嚴謹的型別推斷</a><br>🤡 <a href='https://muki.tw/sentry-monitoring-capture-errors-mcp-fix-bug/'>前端監控與捕捉使用者瀏覽網站的錯誤，並透過 AI MCP 自動修復 Bug Issue</a><br>💯 <a href='https://muki.tw/foreach-map-for-of/'>如何正確處理非同步的 API 請求？淺談 forEach, map, for…of 的差異</a><br>🔥 <a href='https://muki.tw/tana-transcript-meeting-audio/'>Tana 的一條龍服務：從錄製逐字稿到轉成會議記錄</a><br>💯 <a href='https://muki.tw/tana-raycast-confetti/'>Tana 串接 Raycast 幫你的待辦事項加上撒花效果</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/figma-mcp-server-cursor/'>用 Figma MCP Server 讓 AI 自動設計 UI，設計師的夢想成真了</a><br>🤡 <a href='https://muki.tw/history-apispa/'>認識 History API：SPA 的關鍵技術之一</a><br>💯 <a href='https://muki.tw/drag-and-drop-api/'>用 Drag and Drop API 打造拖曳網頁元素</a><br>🔥 <a href='https://muki.tw/typescript-as-const/'>TypeScript 小技巧：使用 as const 打造更嚴謹的型別推斷</a><br>💯 <a href='https://muki.tw/sentry-monitoring-capture-errors-mcp-fix-bug/'>前端監控與捕捉使用者瀏覽網站的錯誤，並透過 AI MCP 自動修復 Bug Issue</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

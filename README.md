@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/react-render-usecallback-react-memo/'>如何優化 React 元件的渲染效能，並避免渲染陷阱</a><br>🤡 <a href='https://muki.tw/figma-mcp-server-cursor/'>用 Figma MCP Server 讓 AI 自動設計 UI，設計師的夢想成真了</a><br>💯 <a href='https://muki.tw/history-apispa/'>認識 History API：SPA 的關鍵技術之一</a><br>🔥 <a href='https://muki.tw/drag-and-drop-api/'>用 Drag and Drop API 打造拖曳網頁元素</a><br>💯 <a href='https://muki.tw/typescript-as-const/'>TypeScript 小技巧：使用 as const 打造更嚴謹的型別推斷</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/pr-pilot/'>打造高效的 PR 工作流：自動發 PR 並用 AI 產生完整的 PR 摘要與內容翻譯</a><br>🤡 <a href='https://muki.tw/react-render-usecallback-react-memo/'>如何優化 React 元件的渲染效能，並避免渲染陷阱</a><br>💯 <a href='https://muki.tw/figma-mcp-server-cursor/'>用 Figma MCP Server 讓 AI 自動設計 UI，設計師的夢想成真了</a><br>🔥 <a href='https://muki.tw/history-apispa/'>認識 History API：SPA 的關鍵技術之一</a><br>💯 <a href='https://muki.tw/drag-and-drop-api/'>用 Drag and Drop API 打造拖曳網頁元素</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

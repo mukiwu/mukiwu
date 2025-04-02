@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/book-the-fifth-discipline/'>《第五項修練》微小改變如何帶來巨大成果 — 彼得·聖吉的學習型組織之旅</a><br>🤡 <a href='https://muki.tw/zapier-mcp-server/'>使用 Zapier MCP 串接 Cursor，輕鬆打造智慧助理，幫你快速整理 Gmail 信件並生成精準摘要</a><br>💯 <a href='https://muki.tw/pr-pilot/'>打造高效的 PR 工作流：自動發 PR 並用 AI 產生完整的 PR 摘要與內容翻譯</a><br>🔥 <a href='https://muki.tw/react-render-usecallback-react-memo/'>如何優化 React 元件的渲染效能，並避免渲染陷阱</a><br>💯 <a href='https://muki.tw/figma-mcp-server-cursor/'>用 Figma MCP Server 讓 AI 自動設計 UI，設計師的夢想成真了</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/javascript-map-weakmap-2/'>JavaScript 中 Map 與 WeakMap 的介紹，以及和 Object 的差別 &lpar;2/2&rpar;</a><br>🤡 <a href='https://muki.tw/javascript-map-weakmap-1/'>JavaScript 中 Map 與 WeakMap 的介紹，以及和 Object 的差別 &lpar;1/2&rpar;</a><br>💯 <a href='https://muki.tw/book-the-fifth-discipline/'>《第五項修練》微小改變如何帶來巨大成果 — 彼得·聖吉的學習型組織之旅</a><br>🔥 <a href='https://muki.tw/zapier-mcp-server/'>使用 Zapier MCP 串接 Cursor，輕鬆打造智慧助理，幫你快速整理 Gmail 信件並生成精準摘要</a><br>💯 <a href='https://muki.tw/pr-pilot/'>打造高效的 PR 工作流：自動發 PR 並用 AI 產生完整的 PR 摘要與內容翻譯</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

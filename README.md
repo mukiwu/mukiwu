@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/zeabur-deploy-n8n/'>如何使用 Zeabur 部署你的 n8n 服務</a><br>🤡 <a href='https://muki.tw/3-typescript-usual-mistakes/'>這 3 種 TypeScript 錯誤，新手易犯，老手也得留心</a><br>💯 <a href='https://muki.tw/obsidian-web-clipper-ai-tool/'>Obsidian Web Clipper 可能是現今最強大的 AI 網頁剪輯工具</a><br>🔥 <a href='https://muki.tw/javascript-map-weakmap-2/'>JavaScript 中 Map 與 WeakMap 的介紹，以及和 Object 的差別 &lpar;2/2&rpar;</a><br>💯 <a href='https://muki.tw/javascript-map-weakmap-1/'>JavaScript 中 Map 與 WeakMap 的介紹，以及和 Object 的差別 &lpar;1/2&rpar;</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/book-the-fifth-discipline-1/'>第五項修練 &lt;作者：彼得聖吉&gt; 一趟終身持續的旅程</a><br>🤡 <a href='https://muki.tw/zeabur-deploy-n8n/'>如何使用 Zeabur 部署你的 n8n 服務</a><br>💯 <a href='https://muki.tw/3-typescript-usual-mistakes/'>這 3 種 TypeScript 錯誤，新手易犯，老手也得留心</a><br>🔥 <a href='https://muki.tw/obsidian-web-clipper-ai-tool/'>Obsidian Web Clipper 可能是現今最強大的 AI 網頁剪輯工具</a><br>💯 <a href='https://muki.tw/javascript-map-weakmap-2/'>JavaScript 中 Map 與 WeakMap 的介紹，以及和 Object 的差別 &lpar;2/2&rpar;</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/book-the-fifth-discipline-2/'>第五項修練 &lt;作者：彼得聖吉&gt; 一隻能改變世界的學習槓桿</a><br>🤡 <a href='https://muki.tw/book-the-fifth-discipline-1/'>第五項修練 &lt;作者：彼得聖吉&gt; 一趟終身持續的旅程</a><br>💯 <a href='https://muki.tw/zeabur-deploy-n8n/'>如何使用 Zeabur 部署你的 n8n 服務</a><br>🔥 <a href='https://muki.tw/3-typescript-usual-mistakes/'>這 3 種 TypeScript 錯誤，新手易犯，老手也得留心</a><br>💯 <a href='https://muki.tw/obsidian-web-clipper-ai-tool/'>Obsidian Web Clipper 可能是現今最強大的 AI 網頁剪輯工具</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/notebook-lm-knowledge/'>如何用 NotebookLM 把各類書籍打造成我的專屬 AI 知識庫</a><br>🤡 <a href='https://muki.tw/book-the-fifth-discipline-2/'>第五項修練 &lt;作者：彼得聖吉&gt; 一隻能改變世界的學習槓桿</a><br>💯 <a href='https://muki.tw/book-the-fifth-discipline-1/'>第五項修練 &lt;作者：彼得聖吉&gt; 一趟終身持續的旅程</a><br>🔥 <a href='https://muki.tw/zeabur-deploy-n8n/'>如何使用 Zeabur 部署你的 n8n 服務</a><br>💯 <a href='https://muki.tw/3-typescript-usual-mistakes/'>這 3 種 TypeScript 錯誤，新手易犯，老手也得留心</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

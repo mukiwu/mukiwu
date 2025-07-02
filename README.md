@@ -32,7 +32,7 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/process-rule-system/'>前端開發的架構思維，從流程、制度到系統</a><br>🤡 <a href='https://muki.tw/using-ai-will-stop-the-brain-from-thinking/'>使用 AI 會讓大腦停止思考？</a><br>💯 <a href='https://muki.tw/using-tana-and-obsidian-by-defining-definition/'>用三句話來定義你的定義，分享我在 Tana 和 Obsidian 的使用心得</a><br>🔥 <a href='https://muki.tw/free-to-break-down-books-into-qa-cards-via-ai/'>免費透過 AI 將書籍拆解成可吸收的問答式卡片</a><br>💯 <a href='https://muki.tw/notebook-lm-knowledge/'>如何用 NotebookLM 把各類書籍打造成我的專屬 AI 知識庫</a><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/tana-taught-me-take-notes-but-i-chose-obsidian/'>Tana 教會了我如何寫筆記，但我最後選擇了 Obsidian</a><br>🤡 <a href='https://muki.tw/process-rule-system/'>前端開發的架構思維，從流程、制度到系統</a><br>💯 <a href='https://muki.tw/using-ai-will-stop-the-brain-from-thinking/'>使用 AI 會讓大腦停止思考？</a><br>🔥 <a href='https://muki.tw/using-tana-and-obsidian-by-defining-definition/'>用三句話來定義你的定義，分享我在 Tana 和 Obsidian 的使用心得</a><br>💯 <a href='https://muki.tw/free-to-break-down-books-into-qa-cards-via-ai/'>免費透過 AI 將書籍拆解成可吸收的問答式卡片</a><br><!-- BLOG-POST-LIST:END -->
 
 ## ⚡️ Where to find me
 <p>

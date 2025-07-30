@@ -28,11 +28,7 @@
         
 ## ✒️ My Blog
 
-<img src="https://muki.tw/wordpress/wp-content/uploads/2023/12/omegabook1.jpg" alt="MUKI space*" width="600" />
-
-### Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->💯 <a href='https://muki.tw/tana-taught-me-take-notes-but-i-chose-obsidian/'>Tana 教會了我如何寫筆記，但我最後選擇了 Obsidian</a><br>🤡 <a href='https://muki.tw/process-rule-system/'>前端開發的架構思維，從流程、制度到系統</a><br>💯 <a href='https://muki.tw/using-ai-will-stop-the-brain-from-thinking/'>使用 AI 會讓大腦停止思考？</a><br>🔥 <a href='https://muki.tw/using-tana-and-obsidian-by-defining-definition/'>用三句話來定義你的定義，分享我在 Tana 和 Obsidian 的使用心得</a><br>💯 <a href='https://muki.tw/free-to-break-down-books-into-qa-cards-via-ai/'>免費透過 AI 將書籍拆解成可吸收的問答式卡片</a><br><!-- BLOG-POST-LIST:END -->
+<a href="https://muki.tw" target="_blank"><img src="https://muki.tw/wordpress/wp-content/uploads/2023/12/omegabook1.jpg" alt="MUKI space*" width="600" /></a>
 
 ## ⚡️ Where to find me
 <p>
@@ -50,11 +46,11 @@
   <tr>
     <td valign="top">
       <h3>MUKI's Github Stats</h3>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukiwu&show_icons=true&locale=zh-TW" alt="mukiwu" /></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukiwu&show_icons=true&locale=zh-TW&theme=catppuccin_latte" alt="mukiwu" /></p>
     </td>
     <td valign="top">
       <h3>Total Contrubitions</h3>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukiwu&" alt="mukiwu" /></p>
+      <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mukiwu&theme=vitesse&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a></p>
     </td>
  </tr>
   <tr>
@@ -64,7 +60,7 @@
     </td>
     <td valign="top">
       <h3>Github Ranks</h3>
-      <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukiwu&theme=nord&row=2&column=5" alt="mukiwu" /></a></p>
+      <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukiwu&row=2&column=5" alt="mukiwu" /></a></p>
     </td>
   </tr>
        

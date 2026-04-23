@@ -24,21 +24,21 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>MUKI's Github Stats</h3>
       <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukiwu&show_icons=true&locale=zh-TW&theme=catppuccin_latte" alt="mukiwu" /></p>
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>Total Contrubitions</h3>
       <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mukiwu&theme=vitesse&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a></p>
     </td>
  </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>Most Used Languages</h3>
       <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukiwu&show_icons=true&locale=en&layout=compact" alt="mukiwu" /></p>
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>Activity Graph</h3>
       <p><a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mukiwu&theme=rogue" alt="Activity Graph" /></a></p>
     </td>

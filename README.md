@@ -39,8 +39,8 @@
       <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukiwu&show_icons=true&locale=en&layout=compact" alt="mukiwu" /></p>
     </td>
     <td valign="top">
-      <h3>Github Ranks</h3>
-      <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukiwu&row=2&column=5" alt="mukiwu" /></a></p>
+      <h3>Activity Graph</h3>
+      <p><a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mukiwu&theme=rogue" alt="Activity Graph" /></a></p>
     </td>
   </tr>
        

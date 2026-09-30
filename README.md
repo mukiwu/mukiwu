@@ -23,15 +23,15 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukiwu&theme=default" alt="MUKI's GitHub profile" />
+  <img width="49.5%" src="https://muki-readme-stats.vercel.app/api?username=mukiwu&show_icons=true&locale=zh-tw&disable_animations=true" alt="MUKI's GitHub stats" />
+  <img width="49.5%" src="https://streak-stats.demolab.com/?user=mukiwu&background=FFFFFF&border=E4E2E2&stroke=E4E2E2&ring=2F80ED&fire=2F80ED&currStreakNum=333333&sideNums=333333&currStreakLabel=2F80ED&sideLabels=434D58&dates=888888&border_radius=4.5&disable_animations=true" alt="Contribution streak" />
 </p>
 <p align="center">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukiwu&theme=default" alt="GitHub stats" />
-  <img width="59%" src="https://streak-stats.demolab.com/?user=mukiwu&background=FFFFFF&border=E4E2E2&stroke=E4E2E2&ring=586E75&fire=586E75&currStreakNum=586E75&sideNums=586E75&currStreakLabel=586E75&sideLabels=586E75&dates=8BA1A8&border_radius=5&disable_animations=true" alt="Contribution streak" />
+  <img width="100%" src="https://muki-readme-stats.vercel.app/api/top-langs?username=mukiwu&layout=compact&langs_count=8&card_width=830&disable_animations=true" alt="Most used languages" />
 </p>
 <p align="center">
-  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukiwu&theme=default" alt="Top languages by repo" />
-  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukiwu&theme=default" alt="Most commit language" />
+  <a href="https://github.com/mukiwu/muki-ai-plugins"><img width="49.5%" src="https://muki-readme-stats.vercel.app/api/pin?username=mukiwu&repo=muki-ai-plugins&disable_animations=true" alt="muki-ai-plugins" /></a>
+  <a href="https://github.com/mukiwu/hyday"><img width="49.5%" src="https://muki-readme-stats.vercel.app/api/pin?username=mukiwu&repo=hyday&disable_animations=true" alt="hyday" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=mukiwu&label=Profile%20views&color=d9444a&style=flat" alt="mukiwu" />

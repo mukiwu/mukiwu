@@ -33,8 +33,5 @@
   <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukiwu&theme=default" alt="Top languages by repo" />
   <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukiwu&theme=default" alt="Most commit language" />
 </p>
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/586e75/mukiwu" alt="Activity graph" />
-</p>
 
 <img src="https://komarev.com/ghpvc/?username=mukiwu&label=Profile%20views&color=d9444a&style=flat" alt="mukiwu" />

@@ -22,28 +22,19 @@
 <a target="_blank" href="https://stackoverflow.com/users/2126434"><img src="https://img.shields.io/badge/stackoverflow-fbfbfb?logo=stackoverflow" alt="stackoverflow" /></a>
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>MUKI's Github Stats</h3>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukiwu&show_icons=true&locale=zh-TW&theme=catppuccin_latte" alt="mukiwu" /></p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Total Contrubitions</h3>
-      <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mukiwu&theme=vitesse&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a></p>
-    </td>
- </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Most Used Languages</h3>
-      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukiwu&show_icons=true&locale=en&layout=compact" alt="mukiwu" /></p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Activity Graph</h3>
-      <p><a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mukiwu&theme=rogue" alt="Activity Graph" /></a></p>
-    </td>
-  </tr>
-       
-</table>
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukiwu&theme=default" alt="MUKI's GitHub profile" />
+</p>
+<p align="center">
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukiwu&theme=default" alt="GitHub stats" />
+  <img width="59%" src="https://streak-stats.demolab.com/?user=mukiwu&background=FFFFFF&border=E4E2E2&stroke=E4E2E2&ring=586E75&fire=586E75&currStreakNum=586E75&sideNums=586E75&currStreakLabel=586E75&sideLabels=586E75&dates=8BA1A8&border_radius=5&disable_animations=true" alt="Contribution streak" />
+</p>
+<p align="center">
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukiwu&theme=default" alt="Top languages by repo" />
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukiwu&theme=default" alt="Most commit language" />
+</p>
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/586e75/mukiwu" alt="Activity graph" />
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=mukiwu&label=Profile%20views&color=d9444a&style=flat" alt="mukiwu" />

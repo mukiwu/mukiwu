@@ -29,9 +29,5 @@
 <p align="center">
   <img width="100%" src="https://muki-readme-stats.vercel.app/api/top-langs?username=mukiwu&layout=compact&langs_count=8&card_width=830&disable_animations=true" alt="Most used languages" />
 </p>
-<p align="center">
-  <a href="https://github.com/mukiwu/muki-ai-plugins"><img width="49.5%" src="https://muki-readme-stats.vercel.app/api/pin?username=mukiwu&repo=muki-ai-plugins&disable_animations=true" alt="muki-ai-plugins" /></a>
-  <a href="https://github.com/mukiwu/hyday"><img width="49.5%" src="https://muki-readme-stats.vercel.app/api/pin?username=mukiwu&repo=hyday&disable_animations=true" alt="hyday" /></a>
-</p>
 
 <img src="https://komarev.com/ghpvc/?username=mukiwu&label=Profile%20views&color=d9444a&style=flat" alt="mukiwu" />
